@@ -11,4 +11,5 @@ Tar files are chosen to have a control over the cross-compiled version and to av
 
 # RUN
 $ git clone git@github.com:BhanuKiranChaluvadi/LTTng-crosscompile.git
+
 $ sudo ./lttng_crosscompile.bash
